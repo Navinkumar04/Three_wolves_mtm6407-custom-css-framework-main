@@ -1,3 +1,7 @@
+#THREE WOLVES TEAM MEMEBERS
+1) NAVIN KUMAR
+2) MANOJ CHUMBER
+3) SUZAL VERMA
 # Bow Tie CSS
 
 The CSS framework "Bow Tie CSS" streamlines and accelerates the coding process by offering a collection of pre-designed, visually cohesive elements. Tailored for simplicity and speed, "Bow Tie CSS" furnishes users with fundamental yet visually appealing components, enabling rapid development while ensuring consistency across designs.
