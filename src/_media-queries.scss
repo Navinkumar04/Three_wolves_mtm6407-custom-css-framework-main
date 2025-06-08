@@ -1,7 +1,0 @@
-@mixin md-screen-size {
-    @media (min-width: 768px) { @content; }
-}
-
-@mixin lg-screen-size {
-    @media (min-width: 1200px) { @content; }
-}
